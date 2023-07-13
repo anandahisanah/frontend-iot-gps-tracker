@@ -1,5 +1,5 @@
 {
-  "name": "create-react-app-starter",
+  "name": "frontend-iot-gps-tracker",
   "version": "0.1.0",
   "dependencies": {
     "autoprefixer": "^10.4.14",
