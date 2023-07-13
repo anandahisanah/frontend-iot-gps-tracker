@@ -7,7 +7,7 @@ export default function Home() {
   const [chats, setChats] = useState([]);
 
   const getChat = () => {
-    axios.get('http://203.175.11.123:8080?limit=5')
+    axios.get('https://backend-iot-gps-tracker-production.up.railway.app?limit=5')
       .then(response => {
         setChats(response.data.data);
       })
