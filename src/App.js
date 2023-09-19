@@ -69,7 +69,7 @@ export default function Home() {
           <p className="text-right text-xs text-gray-500 m-2">
             Develop by:
             <span className="text-gray-700 ml-1">
-              <a target="_blank" href="https://anandahisanah.github.io">
+              <a target="_blank" href="https://about.anandahisanah.dev">
                 @anandahisanah
               </a>
             </span>
