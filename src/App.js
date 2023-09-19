@@ -24,7 +24,7 @@ export default function Home() {
     <div className="flex flex-col h-screen bg-gray-100 gap-4">
       {/* alert */}
       <div className="bg-red-200 p-6 text-base text-center">
-        Hello!! This backend application is not availaible since: <b>11 August 2023</b>.
+        Hello!! This service is not availaible since: <b>11 August 2023</b>.
       </div>
       <div className="flex justify-center items-center h-screen px-5 bg-gray-100">
         <div className="w-full max-w-md mx-auto bg-white rounded-lg shadow-md overflow-hidden">
